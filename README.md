@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jullyanolino
-- 👀 I’m interested in quantum computing, malware analysis, exploring languages (artificial and natural ones), cybersecurity and cardistry.
+- 👀 I’m interested in quantum computing, malware analysis, exploring languages (artificial and natural ones), cybersecurity, calisthenics and cardistry.
+- :office:Nowadays, I work as a Cybersecurity Incidente Manager 
 - 🌱 I’m currently learning quantum computing, math, Rust and japanese idiom.
-- 💞️ I’m looking to collaborate on academic quantum computing papers.
+- 💞️ I’m looking to collaborate on academic quantum computing researches and also cybersecurity related ones.
 - 📫 How to reach me: jullyanolino@gmail.com
 
 <!---
