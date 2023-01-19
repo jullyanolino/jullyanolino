@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><a href="https://www.buymeacoffee.com/jullyanolino"> <img align="center" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="JullyanoLino" /></a></p>
 
-<p align="center"><img align="center" src="https://github.com/jullyanolino/jullyanolino/blob/main/linktree-jullyanolino.png" alt="JullyanoLino"  width="500" height="500" /></p>
+<p align="center"><img align="center" src="https://github.com/jullyanolino/jullyanolino/blob/main/linktree-jullyanolino.png" alt="JullyanoLino"  width="100" height="100" /></p>
