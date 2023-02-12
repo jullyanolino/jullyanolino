@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Do.+Fail.+Learn.+Repeat.;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
 - 👋 Hi, I’m @jullyanolino
 - 👀 I’m interested in quantum computing, malware analysis, exploring languages (artificial and natural ones), cybersecurity, calisthenics and cardistry.
 - :office: Nowadays, I work as a Cybersecurity Incident Manager .
