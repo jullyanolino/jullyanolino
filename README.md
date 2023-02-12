@@ -7,7 +7,7 @@
 - :office: Nowadays, I work as a Cybersecurity Incident Manager .
 - 🌱 I’m currently learning quantum computing, math, Rust and japanese idiom.
 - 💞️ I’m looking to collaborate on academic quantum computing researches and also cybersecurity related ones.
-- 📫 How to reach me: jullyanolino@gmail.com
+- 📫 How to reach me: contato@jullyanolino.com
 
 <!---
 jullyanolino/jullyanolino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
