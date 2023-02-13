@@ -23,10 +23,10 @@
   <a href="https://anchor.fm/onlino" target="blank"><img align="center" src="https://github.com/jullyanolino/jullyanolino/blob/main/podcast.png" alt="" height="30" width="40" /></a>
 </p>
 <p align="left">
-  <img align="center" src="https://github.com/jullyanolino/jullyanolino/blob/main/linktree-jullyanolino.png" alt="JullyanoLino"  width="100" height="100" />
+  <img align="center" src="https://github.com/jullyanolino/jullyanolino/blob/main/linktree-jullyanolino.png" alt="JullyanoLino" width="100" height="100" />
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/jullyanolino"> <img align="center" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="JullyanoLino" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/jullyanolino"> <img align="center" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="JullyanoLino" width="70" height="300" /></a></p>
 
 
 
