@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
   <img src="[https://github-readme-streak-stats.herokuapp.com/?user=jullyanolino](https://git.io/streak-stats)">
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jullyanolino)](https://git.io/streak-stats)
 
 
 <h3 align="left">Connect with me:</h3>
