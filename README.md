@@ -9,9 +9,9 @@
 - 💞️ I’m looking to collaborate on academic quantum computing researches and also cybersecurity related ones.
 - 📫 How to reach me: contato@jullyanolino.com
 
-<div style="text-align: center;">
+<p align="center">
    <img src="http://github-readme-streak-stats.herokuapp.com?user=jullyanolino&theme=dark">
-</div>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,8 +21,10 @@
 <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
+
+<p align="center"><img align="center" src="https://github.com/jullyanolino/jullyanolino/blob/main/linktree-jullyanolino.png" alt="JullyanoLino"  width="100" height="100" /></p>
+
 <p align="center"><a href="https://www.buymeacoffee.com/jullyanolino"> <img align="center" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="JullyanoLino" /></a></p>
 
 
-<p align="center"><img align="center" src="https://github.com/jullyanolino/jullyanolino/blob/main/linktree-jullyanolino.png" alt="JullyanoLino"  width="50" height="50" /></p>
 
