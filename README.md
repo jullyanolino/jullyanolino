@@ -22,9 +22,11 @@
   <a href="https://dev.to/jullyanolino" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="" height="30" width="40" /></a>
   <a href="https://anchor.fm/onlino" target="blank"><img align="center" src="https://github.com/jullyanolino/jullyanolino/blob/main/podcast.png" alt="" height="30" width="40" /></a>
 </p>
+<!--
 <p align="left">
   <img align="center" src="https://github.com/jullyanolino/jullyanolino/blob/main/linktree-jullyanolino.png" alt="JullyanoLino" width="100" height="100" />
 </p>
+-->
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/jullyanolino"> 
