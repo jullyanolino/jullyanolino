@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div style="text-align: center;">
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jullyanolino&theme=dark)](https://git.io/streak-stats)
-   <img src="[](http://github-readme-streak-stats.herokuapp.com?user=jullyanolino&theme=dark)">
+   <img src="[http://github-readme-streak-stats.herokuapp.com?user=jullyanolino&theme=dark]()">
   
 </div>
 
