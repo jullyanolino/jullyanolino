@@ -14,6 +14,9 @@ jullyanolino/jullyanolino is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+<p align="center">
+  <img src="[https://readme-typing-svg.demolab.com/?lines=Do.+Fail.+Learn.+Repeat.;Always+adapting&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000](https://github-readme-streak-stats.herokuapp.com/?user=jullyanolino)">
+</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jullyanolino)](https://git.io/streak-stats)
 
