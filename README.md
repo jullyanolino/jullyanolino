@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<p align="center"><a href="https://www.buymeacoffee.com/jullyanolino"> <img align="center" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="JullyanoLino" /></a></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jullyanolino)](https://git.io/streak-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,8 +26,7 @@ You can click the Preview link to take a look at your changes.
 <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jullyanolino)](https://git.io/streak-stats)
-
+<p align="center"><a href="https://www.buymeacoffee.com/jullyanolino"> <img align="center" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="JullyanoLino" /></a></p>
 <!--
 <p align="center"><img align="center" src="https://github.com/jullyanolino/jullyanolino/blob/main/linktree-jullyanolino.png" alt="JullyanoLino"  width="150" height="150" /></p>
 -->
