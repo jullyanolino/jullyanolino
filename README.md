@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <div style="text-align: center;">
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jullyanolino&theme=dark)](https://git.io/streak-stats)
-  http://github-readme-streak-stats.herokuapp.com?user=jullyanolino&theme=dark
+   <img src="[https://readme-typing-svg.demolab.com/?lines=Do.+Fail.+Learn.+Repeat.;Always+adapting&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000](http://github-readme-streak-stats.herokuapp.com?user=jullyanolino&theme=dark)">
+  
 </div>
 
 <h3 align="left">Connect with me:</h3>
