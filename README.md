@@ -13,8 +13,9 @@
 jullyanolino/jullyanolino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jullyanolino&theme=dark)](https://git.io/streak-stats)
+<div style="text-align: center;">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jullyanolino&theme=dark)](https://git.io/streak-stats)
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
