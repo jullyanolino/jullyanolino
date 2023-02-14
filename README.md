@@ -9,6 +9,15 @@
 - 💞️ I’m looking to collaborate on academic quantum computing researches and also cybersecurity related ones.
 - 📫 How to reach me: contato@jullyanolino.com
 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jullyanolino&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="DGS1337 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jullyanolino&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
 <p align="center">
    <img src="http://github-readme-streak-stats.herokuapp.com?user=jullyanolino&theme=dark">
 </p>
