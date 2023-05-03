@@ -41,11 +41,12 @@
 </p>
 -->
 
+<!--
 <p align="center">
   <a href="https://www.buymeacoffee.com/jullyanolino"> 
     <img align="center" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="JullyanoLino"/>
   </a>
 </p>
-
+-->
 
 
