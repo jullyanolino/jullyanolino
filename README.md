@@ -8,7 +8,7 @@
 - :rocket: I’m currently involved in a project related to Quantum Computing: [Quantum Coaching](https://onlino.gitbook.io/quantum_coaching/)
 - 🌱 I’m currently learning math, quantum computing, Mandarin and Rust Lang.
 - 💞️ I’m looking to collaborate on academic quantum computing researches and also cybersecurity related ones.
-- 📫 How to reach me: contato@jullyanolino.com
+- 📫 How to reach me: jullyanolino@gmail.com
 
 
 <div align="center">  
