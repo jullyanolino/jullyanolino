@@ -6,7 +6,7 @@
 - 👀 I’m interested in quantum computing, malware analysis, exploring languages (artificial and natural ones), cybersecurity, calisthenics and cardistry.
 - :office: Nowadays, I work as a Cybersecurity Analyst.
 - :rocket: I’m currently involved in a project related to Quantum Computing: [Quantum Coaching](https://onlino.gitbook.io/quantum_coaching/)
-- 🌱 I’m currently learning math, quantum computing, Mandarin and Rust Lang.
+- 🌱 I’m currently practicing math, quantum computing, Mandarin, Red Teaming, CTF, and Rust Lang.
 - 💞️ I’m looking to collaborate on academic quantum computing researches and also cybersecurity related ones.
 - 📫 How to reach me: jullyanolino@gmail.com
 
