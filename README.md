@@ -10,19 +10,20 @@
 - 💞️ I’m looking to collaborate on academic quantum computing researches and also cybersecurity related ones.
 - 📫 How to reach me: jullyanolino@gmail.com
 
-
+<!--
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jullyanolino&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="DGS1337 github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jullyanolino&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
+-->
 <!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
--->
+
 
 <p align="center">
    <img src="http://github-readme-streak-stats.herokuapp.com?user=jullyanolino&theme=dark">
 </p>
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,6 +34,9 @@
   <a href="https://www.instagram.com/jullyanolino/" target="blank"><img align="center" src="https://github.com/jullyanolino/jullyanolino/blob/main/social/icons/instagram.svg" alt="" height="30" width="40" /></a>
   <!--
   <a href="https://dev.to/jullyanolino" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="" height="30" width="40" /></a>
+  [![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/1163217)
+  [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/h4ckthreat)
+  [![HackerOne Badge](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/h4ckthreat)
   -->  
 </p>
 <!--
@@ -49,4 +53,5 @@
 </p>
 -->
 
-
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jullyanolino&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jullyanolino&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jullyanolino&theme=nord_dark) |
+| :-: | :-: | :-: |
